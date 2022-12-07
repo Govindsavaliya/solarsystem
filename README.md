@@ -1,11 +1,11 @@
 # solarsystem
 
-npm i,
+npm i
 
 
 
 
-npm i parcel,
+npm i parcel
 
 
 
